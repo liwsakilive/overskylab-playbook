@@ -1,0 +1,5 @@
+*.cfg
+*.info
+hosts
+roles/*
+!roles/.REMOVEME
