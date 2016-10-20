@@ -1,0 +1,8 @@
+---
+- name: Launch Docker webstack containers
+  hosts: localhost
+  connection: local
+  gather_facts: no
+  become: false
+  roles:
+    - role: teng.ansible-docker_webstack

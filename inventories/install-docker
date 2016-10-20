@@ -1,0 +1,4 @@
+[docker]
+node-01 ansible_user=teng ansible_host=10.0.60.118 ansible_port=22
+node-02 ansible_user=teng ansible_host=10.0.60.119 ansible_port=22
+node-03 ansible_user=teng ansible_host=10.0.60.124 ansible_port=22
