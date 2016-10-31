@@ -2,5 +2,4 @@
 hosts
 roles/*
 !roles/.REMOVEME
-files/*
-!files/.REMOVEME
+files/authorized_keys
