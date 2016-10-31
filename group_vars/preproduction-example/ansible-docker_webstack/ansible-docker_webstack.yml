@@ -1,3 +1,4 @@
 ---
-docker_webstack_docker_compose_generate: true
-docker_webstack_container_web_scale: 1
+docker_webstack_container_run: true
+docker_webstack_container_destroy: false
+docker_webstack_container_web_scale: 2 

@@ -1,7 +1,8 @@
 ---
 # winggundamth's example
 # This will configure DOCKER_OPTS. Default is to use overlay as storage driver
-install_docker_options: --live-restore --storage-driver=overlay2
+# install_docker_options: --live-restore --storage-driver=overlay2
+install_docker_options: --storage-driver=overlay2
 
 # Private Docker Registry configuration. Change to true and configure
 # login information
