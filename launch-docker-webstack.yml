@@ -5,4 +5,4 @@
   gather_facts: no
   become: false
   roles:
-    - role: teng.ansible-docker_webstack
+    - role: teng.docker_webstack
