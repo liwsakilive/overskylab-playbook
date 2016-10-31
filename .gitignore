@@ -2,3 +2,5 @@
 hosts
 roles/*
 !roles/.REMOVEME
+files/*
+!files/.REMOVEME
